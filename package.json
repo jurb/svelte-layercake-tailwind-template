@@ -11,7 +11,7 @@
     "@rollup/plugin-commonjs": "^11.0.0",
     "@rollup/plugin-dsv": "^2.0.0",
     "@rollup/plugin-node-resolve": "^6.0.0",
-    "layercake": "^2.0.0",
+    "layercake": "^7.0.0",
     "postcss": "^7.0.26",
     "postcss-load-config": "^2.1.0",
     "rollup": "^1.20.0",
